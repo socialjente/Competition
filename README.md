@@ -1,1 +1,3 @@
 # myfirstsite
+
+This is my first try at making a website. It's not finished. It's never finished...
